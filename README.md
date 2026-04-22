@@ -8,13 +8,13 @@
 📚 Always learning, building, and exploring innovative solutions  
 
 ## Skills & Tools 🛠️
-- 🐍 Python  
+- 🐍 Python (Optimization) 
 - 📈 GAMS  
 - 🧮 MATLAB  
 - 🤖 Machine Learning  
 - ⚙️ Process Simulation  
 - 🏭 Aspen Plus  
-- 🌱 OpenLCA  
+- 🌱 OpenLCA (Life Cycle Assessment)  
 - 💰 Techno-Economic Analysis (TEA)  
 - 📊 Data Analysis & Optimization  
 
