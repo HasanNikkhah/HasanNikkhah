@@ -8,7 +8,7 @@
 📚 Always learning, building, and exploring innovative solutions  
 
 ## Skills & Tools 🛠️
-- 🐍 Python (Optimization) 
+- 🐍 Python
 - 📈 GAMS  
 - 🧮 MATLAB  
 - 🤖 Machine Learning  
